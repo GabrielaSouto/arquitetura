@@ -19,5 +19,6 @@
 			echo("Senha incorreta");
 		}
 	?>
+	<br />
 </body>
 <html>
